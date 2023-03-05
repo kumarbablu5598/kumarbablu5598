@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarbablu5598&label=Profile%20views&color=0e75b6&style=flat" alt="kumarbablu5598" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kumarbablu5598" target="blank"><img src="https://img.shields.io/twitter/follow/kumarbablu5598?logo=twitter&style=for-the-badge" alt="kumarbablu5598" /></a> </p>
 
 - 🔭 I’m currently working on [Backend Developer](https://github.com/kumarbablu5598/SpringBoot)
 
@@ -23,10 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kumarbablu5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumarbablu5598" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/bablu5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bablu5598/" height="30" width="40" /></a>
-<a href="https://facebook.com/bablu5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bablu5598/" height="30" width="40" /></a>
-<a href="https://instagram.com/babluyadav_5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/babluyadav_5598/" height="30" width="40" /></a>
+
 <a href="https://codechef.com/users/kumarbablu5598" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kumarbablu5598" height="30" width="40" /></a>
 <a href="https://hackerrank.com/kumarbablu55981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kumarbablu55981" height="30" width="40" /></a>
 <a href="https://leetcode.com/kumarbablu5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kumarbablu5598/" height="30" width="40" /></a>
