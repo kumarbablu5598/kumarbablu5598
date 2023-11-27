@@ -8,27 +8,36 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarbablu5598&label=Profile%20views&color=0e75b6&style=flat" alt="kumarbablu5598" /> </p>
 
 
-- 🔭 I’m currently working on [Backend Developer](https://github.com/kumarbablu5598/SpringBoot)
+- 🔭 I’m currently working on [Backend Developer](https://github.com/kumarbablu5598/Springboot_Projects)
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **SpringBoot,Microservices,Java**
+- 💬 Ask me about **Java, SpringBoot, Microservices, Hibernate, Sql, AWS**
 
 - 📫 How to reach me **kumarbablu5598@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mRcBmzTtLYbG_PsxPhvOVlGz-1eiJ3sv/view?usp=share_link](https://drive.google.com/file/d/1mRcBmzTtLYbG_PsxPhvOVlGz-1eiJ3sv/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KHQp_2lQpaje_7WUzQMJ6pCoJa6YMVMe/view)
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/bablu5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bablu5598/" height="30" width="40" /></a>
-<a href="https://codechef.com/users/kumarbablu5598" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kumarbablu5598" height="30" width="40" /></a>
-<a href="https://hackerrank.com/kumarbablu55981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kumarbablu55981" height="30" width="40" /></a>
-<a href="https://leetcode.com/kumarbablu5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kumarbablu5598/" height="30" width="40" /></a>
-<a href="https://hackerearth.com/@bablu5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@bablu5598" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bablukumar5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/bablukumar5598/" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/bablu5598" target="blank"><img align="center" alt="https://www.linkedin.com/in/bablu5598/" height="30" width="40"/>Linkedin</a>
+
+<a href="https://github.com/kumarbablu5598" target="blank"><img align="center" alt="https://github.com/kumarbablu5598" height="30" width="40"/>Github</a>
+
+<a href="https://codechef.com/users/kumarbablu5598" target="blank"><img align="center" alt="https://www.codechef.com/users/kumarbablu5598" height="30" width="40"/>Codechef</a>
+
+<a href="https://hackerrank.com/kumarbablu55981" target="blank"><img align="center" alt="https://www.hackerrank.com/kumarbablu55981" height="30" width="40"/>Hackerrank</a>
+
+<a href="https://leetcode.com/kumarbablu5598" target="blank"><img align="center" alt="https://leetcode.com/kumarbablu5598/" height="30" width="40"/>Leetcode</a>
+
+<a href="https://hackerearth.com/@bablu5598" target="blank"><img align="center" alt="https://www.hackerearth.com/@bablu5598" height="30" width="40"/><Hackerearth/a>
+
+<a href="https://auth.geeksforgeeks.org/user/bablukumar5598" target="blank"><img align="center" alt="https://auth.geeksforgeeks.org/user/bablukumar5598/" height="30" width="40"/>Gfg</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
