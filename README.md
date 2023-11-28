@@ -1,7 +1,7 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]()
 <center>
-<a href="https://twitter.com/BabluKu13130168/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
-<a href="https://www.linkedin.com/in/bablu5598/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Linkedin."></a>
+<a href="https://twitter.com/BabluKu13130168/" target="_blank" ><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/bablu5598/" target="_blank" ><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Linkedin."></a>
 </center>
 
 ### Hi 👋, I'm Bablu Kumar
@@ -22,11 +22,11 @@
 
 
 <p align="left">  
-<a href="https://twitter.com/BabluKu13130168/" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://www.facebook.com/bablu5598/" target="blank"><img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" height="32px" width="32px"/></a>
-<a href="https://www.linkedin.com/in/bablu5598/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/babluyadav_5598/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-<a href="mailto:kumarbablu5598@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+<a href="https://twitter.com/BabluKu13130168/" target="_blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://www.facebook.com/bablu5598/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" height="32px" width="32px"/></a>
+<a href="https://www.linkedin.com/in/bablu5598/" target="_blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/babluyadav_5598/" target="_blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+<a href="mailto:kumarbablu5598@gmail.com" target="_blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
 ### Languages and Tools:
